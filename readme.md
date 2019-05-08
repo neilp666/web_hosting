@@ -1,1 +1,1 @@
-exmaple web hosting page
+example web hosting page
