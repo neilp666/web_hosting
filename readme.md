@@ -1,0 +1,1 @@
+exmaple web hosting page
